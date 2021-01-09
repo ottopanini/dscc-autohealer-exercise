@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="flaky.worker" />
         <module name="flakyworker" />
+        <module name="flaky.worker" />
       </profile>
     </annotationProcessing>
   </component>
